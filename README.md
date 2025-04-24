@@ -1,11 +1,11 @@
-# LogiTrack : Inventory Management System
+# IKOSEvault :  Warehouse stock Optimization
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.28.0-red)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2025--03--24-brightgreen)
 
-LogiTrack is a modern, web-based inventory management system built with Python and Streamlit. It provides real-time optimization of warehouse inventory distribution, order management, and supply chain analytics.
+IKOSEvault is a modern, web-based inventory management system built with Python and Streamlit. It provides real-time optimization of warehouse inventory distribution, order management, and supply chain analytics.
 
 ## a) Features
 
@@ -50,10 +50,7 @@ LogiTrack is a modern, web-based inventory management system built with Python a
 ### Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/tanishpoddar/logitrack.git
-   cd logitrack
-   ```
+
 
 2. Create and activate virtual environment (optional but recommended):
    ```bash
@@ -154,4 +151,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-**Made with ❤️ by Tanish Poddar**
+**Made with ❤️ by Yogesh KUmar**
